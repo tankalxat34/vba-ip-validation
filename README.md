@@ -11,3 +11,8 @@ This is a simple code for automatically verification user's IP-address that can 
 
 # Install
 You need to install [`validationIP.bas`](https://github.com/tankalxat34/vba-ip-validation/blob/main/validationIP.bas) from `main` branch and place into your book.
+
+# How it work?
+A user whose IP address is not saved to a file with the addresses of users who have access to your book opens the book containing this code and receives an error that his IP address is not saved on the server. Then the book closes. Thus, an unidentified user will not be able to view your Excel workbook and change anything there.
+
+If the user's IP is contained in a file with IP addresses, nothing happens and the book opens correctly without giving any access errors.
