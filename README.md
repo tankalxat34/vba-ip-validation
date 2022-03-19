@@ -10,7 +10,8 @@ This repository is a example for my **[vbaRequests module](https://github.com/ta
 This is a simple code for automatically verification user's IP-address that can help you to block all users who has you Excel Book and who should not have access to it (that is, these users will not be able to open it).
 
 # Install
-You need to install [`validationIP.bas`](https://github.com/tankalxat34/vba-ip-validation/blob/main/validationIP.bas) from `main` branch and place into your book.
+1. Install the **[vbaRequests module](https://github.com/tankalxat34/vbaRequests)**.
+2. Install [`validationIP.bas`](https://github.com/tankalxat34/vba-ip-validation/blob/main/validationIP.bas) from `main` branch and place it into your book.
 
 # How it work?
 A user whose IP address is not saved to a file with the addresses of users who have access to your book opens the book containing this code and receives an error that his IP address is not saved on the server. Then the book closes. Thus, an unidentified user will not be able to view your Excel workbook and change anything there.
