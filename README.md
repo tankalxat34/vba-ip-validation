@@ -1,9 +1,9 @@
 # vba-ip-validation
 ![GitHub top language](https://img.shields.io/github/languages/top/tankalxat34/vba-ip-validation)
 ![skill](https://img.shields.io/badge/Microsoft%20Excel%20VBA-107C41?logo=microsoft&logoColor=white)
-[![vbaRequests](https://img.shields.io/badge/vbaRequests-5C2D91?logo=.net&logoColor=white)](https://github.com/tankalxat34/vbaRequests)
-
 ![GitHub](https://img.shields.io/github/license/tankalxat34/vba-ip-validation?logo=github&logoColor=white)
+
+[![vbaRequests](https://img.shields.io/badge/module-vba%20Requests-5C2D91?logo=.net&logoColor=white&style=for-the-badge)](https://github.com/tankalxat34/vbaRequests)
 
 This repository is a example for my **[vbaRequests module](https://github.com/tankalxat34/vbaRequests)**. If you want to use IP validation code, you need to install [vbaRequests](https://github.com/tankalxat34/vbaRequests).
 
