@@ -8,7 +8,7 @@ Private Sub Workbook_Open()
     If InStr(listIP, userIP) Then
         Exit Sub
     Else
-        MsgBox "Ваш IP адрес не подтвержден в системе! Приложение будет закрыто!", vbCritical
+        MsgBox "Your IP address is not confirmed in the system! The application will be closed!", vbCritical
         Application.Quit
     End If
 End Sub
